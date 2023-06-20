@@ -31,6 +31,8 @@ Run All The Test: We need to do a clean solution and build a solution so we will
 
 Refactors: This part is very important for understanding the code. I have focused on humans who can read my code because machines can read any massy code.
 
+## Scrum Board, Link-Below
+https://trello.com/b/iGF6RiYu/ci-cd-scrum-board
 
 ## Team
 
